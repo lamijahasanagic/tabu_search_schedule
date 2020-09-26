@@ -1,4 +1,4 @@
-# tabu_search_schedule
+# Solving the Job Shop Scheduling Problem using Tabu Search Algorithm
 The implementation of the Taboo Search algorithm on the job shop schedule problem.
 
 ## Description
